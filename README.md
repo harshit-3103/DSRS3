@@ -1,2 +1,2 @@
 # DSRS3
-the 3rd year project
+A Machine Learning Algorithm is used to recommended drugs on the basis of disease.
